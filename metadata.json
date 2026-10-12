@@ -1,0 +1,6 @@
+{
+  "name": "Olivia Rewards",
+  "description": "Exclusive loyalty rewards, point tracking, digital member pass, daily bonuses, and instant perk redemptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
